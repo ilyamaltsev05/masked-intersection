@@ -1,0 +1,12 @@
+%%MatrixMarket matrix coordinate pattern general
+% Label: (0)
+9 9 9
+1 1
+2 6
+3 2
+4 7
+5 3
+6 8
+7 4
+8 9
+9 5
