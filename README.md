@@ -185,7 +185,7 @@ GrB_BLOCKING
 | 4 | 24.001 $\pm$ 0.032 s | 26.667 $\pm$ 0.020 s
 | 7 | 24.625 $\pm$ 0.356 s | 27.257 $\pm$ 0.567 s
 
-# [LD-RPQB](https://github.com/SparseLinearAlgebra/la-rpq/tree/main/Datasets/RPQBench)
+# [LD-RPQB](https://github.com/Mamenglu/LD-RPQB)
 Сгенерированный с помощью [la-rpq](https://github.com/SparseLinearAlgebra/la-rpq/tree/main/Datasets/RPQBench) граф и регулярные запросы к нему
 
 ![](./query1-rpqbench.png)
